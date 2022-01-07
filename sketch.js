@@ -2,7 +2,7 @@ var bg,sleep, brush, gym, eat, bath, move;
 var astronaut;
 
 function preload(){
-  bg= loadImage("images/iss.png");
+  bg= loadImage("iss.png");
   sleep = loadAnimation("sleep.png");
   brush = loadAnimation("brush.png");
   gym = loadAnimation("gym1.png","gym1.png","gym2.png","gym2.png");
